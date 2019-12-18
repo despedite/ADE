@@ -1,0 +1,16 @@
+--- INICIAR SESION CON LAS TRES CUENTAS PARA VER TODAS LAS CARACTERISTICAS DE ADE ---
+
+USUARIO REGULAR
+Email: user@ade.com
+Pass: user
+Tiene acceso de lectura limitado a Alumnos, Preceptores y Profesores. Alguna data puede no mostrarse. Cualquier usuario puede crear una cuenta de usuario regular.
+
+ADMINISTRADOR
+Email: admin@ade.com
+Pass: admin
+Tiene acceso de lectura ilimitado a Alumnos, Preceptores y Profesores, y de creación de todos estos, modificación y eliminación. Recomendado para preceptores y directivos.
+
+SUPER USUARIO
+Email: root@ade.com
+Pass: root
+Tiene todo el acceso que tiene un administrador, y acceso de lectura, creación, modificación y eliminación de todos los usuarios registrados en ADE. Esto es un permiso peligroso de dar - es recomendado para un administrador de red individual.
