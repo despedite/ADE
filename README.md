@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="http://materializecss.com/">
     <img src="https://raw.githubusercontent.com/despediteerik/ADE/master/dashboard/assets/img/ade-logo.png" width="250">
-  </a>
 </p>
 
 <h3 align="center">ADE - Administración de Datos Escolares</h3>
