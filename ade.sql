@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 18, 2019 at 04:59 PM
+-- Generation Time: Dec 18, 2019 at 06:03 PM
 -- Server version: 10.3.16-MariaDB
 -- PHP Version: 7.3.7
 
@@ -138,27 +138,9 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`name`, `email`, `password`, `perms`, `id`, `photo`) VALUES
-('Erik', 'biancoveraerik@gmail.com', '76bcfb761377e0b13af55dd6e825a2af', 'SUPER', 1, ''),
-('UsuarioDos', 'user@ade.erikbianco.me', '', 'SUPER', 2, ''),
-('Usuario', 'user@ade.com', 'e10adc3949ba59abbe56e057f20f883e', 'USER', 3, ''),
-('revolucion rusa de 1816', 'userdos@ade.com', 'eccbc87e4b5ce2fe28308fd9f2a7baf3', 'USER', 4, ''),
-('Tomas', 'tomasyaciura616@gmail.com', '836bd85cd43b4bf806c990166b3990fc', 'USER', 5, ''),
-('ErikBianco', 'soy@erikbianco.me', '76bcfb761377e0b13af55dd6e825a2af', 'USER', 7, ''),
-('user', 'user@ade.com', 'ee11cbb19052e40b07aac0ca060c23ee', 'SUPER', 9, ''),
-('Un Humano Normal', 'a@normal.human', '76bcfb761377e0b13af55dd6e825a2af', 'USER', 10, ''),
-('user', 'user@user.user', 'ee11cbb19052e40b07aac0ca060c23ee', 'USER', 11, ''),
-('', 'cop@ad.o', 'd41d8cd98f00b204e9800998ecf8427e', 'USER', 12, ''),
-('', 'h@gmail.com', 'd41d8cd98f00b204e9800998ecf8427e', 'ADMIN', 13, ''),
-('MiMayor', 'Mi@Mayor.com', 'd41d8cd98f00b204e9800998ecf8427e', 'USER', 14, ''),
 ('Usuario Regular', 'user@ade.com', 'd41d8cd98f00b204e9800998ecf8427e', 'USER', 15, ''),
 ('Administrador Regular', 'admin@ade.com', 'd41d8cd98f00b204e9800998ecf8427e', 'ADMIN', 16, ''),
-('Super usuario Regular', 'root@ade.com', 'd41d8cd98f00b204e9800998ecf8427e', 'SUPER', 17, ''),
-('Test Vibro', 'test@vibro.com', 'c4ca4238a0b923820dcc509a6f75849b', 'USER', 18, ''),
-('test', 'test@vibro.com.ar', '8126db4a06bf693c369866d4b9c24a9a', 'USER', 19, ''),
-('Felipe PigÃ±a', 'Tumama@gmail.com', '274c3717a699d42cc89ce080650115a8', 'USER', 20, ''),
-('Hola, Profe!', 'hola@profe.com', 'fae0b27c451c728867a567e8c1bb4e53', 'USER', 21, ''),
-('Saint_Seiya_Fan_666', 'senseia@empiezael.ritual', '698d51a19d8a121ce581499d7b701668', 'USER', 22, ''),
-('Fernando', 'uboat544@gmail.com', '81dc9bdb52d04dc20036dbd8313ed055', 'USER', 23, '');
+('Super usuario Regular', 'root@ade.com', 'd41d8cd98f00b204e9800998ecf8427e', 'SUPER', 17, '');
 
 --
 -- Indexes for dumped tables
